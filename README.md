@@ -1,7 +1,7 @@
 # Elastic Search Api Project
 
-[Overview](#overview)
-[Technologies Used](#technologies-used)
+1. [Overview](#overview)
+2. [Technologies Used](#technologies-used)
 
 ## Overview
 ***
@@ -14,3 +14,4 @@ This is project is aimed at demostrating the use of Elasticsearch for general pu
 * Docker
 * Serilog
 * RabbitMQ
+* Caching using Redis
